@@ -1,5 +1,7 @@
 # GazeNet - Estimativa de Atencao Visual
 
+Ultimo modelo treinado: https://drive.google.com/file/d/16HWQjsAcpnZeK3rI51fXr9P6g4pniIGM/view?usp=sharing
+
 Projeto de pesquisa para estimativa de direcao do olhar (gaze estimation) em imagens estaticas, com deteccao de pessoas/rostos, fusao com objetos da cena e apoio a analises de Theory of Mind (ToM).
 
 ## O que este projeto faz
